@@ -18,7 +18,7 @@ Research experience
 ======
 * Summer 2018: Research Assistant
   * University of Illinois at Chicago, BDSC Lab
-  * Project: Community-preserving Graph Convolutions for Structural and Functional Joint Embedding of Brain Networks
+  * Project: Community-preserving Graph Convolutions for Multi-view Brain Networks
 
 Project experience
 ======
