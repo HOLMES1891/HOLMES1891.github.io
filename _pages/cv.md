@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "JiahaoLiu(刘家豪)"
+title: "JiahaoLiu (刘家豪)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 Education
 ======
