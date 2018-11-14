@@ -9,23 +9,26 @@ redirect_from:
 
 {% include base_path %}
 <br>
+<br>
 
 Education
 ======
 * B.S. in Computer Science, Tongji University
+<br>
 
 Research experience
 ======
 * Summer 2018: Research Assistant
   * University of Illinois at Chicago, BDSC Lab
   * Project: Community-preserving Graph Convolutions for Multi-view Brain Networks
+<br>
 
 Project experience
 ======
 * Summer 2018: Research Assistant
   * University of Illinois at Chicago, BDSC Lab
   * Project: Community-preserving Graph Convolutions for Structural and Functional Joint Embedding of Brain Networks
-
+<br>
   
 Skills
 ======
@@ -36,9 +39,8 @@ Skills
 * Deep learning framework
   * pyTorch
   * Caffe
+<br>
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Community-preserving Graph Convolutions for Structural and Functional Joint Embedding of Brain Networks [pdf coming soon]
