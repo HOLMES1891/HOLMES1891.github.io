@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<br></br>
+<br>
+
 Education
 ======
 * B.S. in Computer Science, Tongji University
