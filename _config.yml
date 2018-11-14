@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiahao Liu / Jiahao Liu's webpage"
+title                    : "Jiahao Liu"
 title_separator          : "-"
 name                     : &name "Jiahao Liu"
 description              : &description "personal description"
