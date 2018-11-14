@@ -20,7 +20,7 @@ Research experience
 * Summer 2018: Research Assistant
   * University of Illinois at Chicago, BDSC Lab
   * Project: Community-preserving Graph Convolutions for Multi-view Brain Networks Analysis
-  * Mentor: [Philip S. Yu](http://www.jianshu.com) and Guxiang Ma
+  * Mentor: Philip S. Yu and Guxiang Ma
 <br>
 
 Project experience
