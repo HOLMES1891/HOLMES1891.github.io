@@ -25,10 +25,8 @@ Research experience
 
 Project experience
 ======
-*  Tongji University Zeal energy-saving racing car team
+* 2018.: Research Assistant
   * University of Illinois at Chicago, BDSC Lab
-  * Project: Developing real-time monitor system on the racing car and collected relevant data based on STM32
-  * 2nd price in Japan Honda energy-saving race
 <br>
   
 Skills
