@@ -25,10 +25,9 @@ Research experience
 
 Project experience
 ======
-*  2015 ~ 2018: Leader of electronic control group
+*  Tongji University Zeal energy-saving racing car team
   * University of Illinois at Chicago, BDSC Lab
-  * Project: Be responsible for embedded system developing. Designed a real-time monitor system
-on the racing car and collected relevant data based on STM32 .
+  * Project: Developing real-time monitor system on the racing car and collected relevant data based on STM32
   * 2nd price in Japan Honda energy-saving race
 <br>
   
