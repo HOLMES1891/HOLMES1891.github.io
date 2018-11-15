@@ -9,5 +9,4 @@ redirect_from:
 ---
 
 # About Me
-* I am an undergraduatue student in the Department of Computer Science at the Tongji University.
-* My research interests lie in data mining, especially text mining and graph mining.
+I am an undergraduatue student in the Department of Computer Science at the Tongji University. I am taking a gap year to do research all around the world. My research interests lie in data mining, especially text mining and graph mining.
