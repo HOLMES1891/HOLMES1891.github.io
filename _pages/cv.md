@@ -25,8 +25,10 @@ Research experience
 
 Project experience
 ======
-* 2018: Research Assistant
-  * University of Illinois at Chicago, BDSC Lab
+* 2018: Leader of electronic control group
+  * Tongji University Zeal energy-saving racing car team
+  * Project: Real-time monitor system developing
+  * 2nd price in Japan Honda energy-saving race
 <br>
   
 Skills
