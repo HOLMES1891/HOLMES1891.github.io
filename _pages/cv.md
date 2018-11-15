@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* Summer 2018: Research Assistant
+* 2018.: Research Assistant
   * University of Illinois at Chicago, BDSC Lab
   * Project: Community-preserving Graph Convolutions for Multi-view Brain Networks Analysis
   * Mentor: [Philip S. Yu](https://www.cs.uic.edu/PSYu/) and Guixiang Ma
@@ -25,15 +25,17 @@ Research experience
 
 Project experience
 ======
-* Summer 2018: Research Assistant
+*  2015 ~ 2018: Leader of electronic control group
   * University of Illinois at Chicago, BDSC Lab
-  * Project: Community-preserving Graph Convolutions for Multi-view Brain Networks Analysis
+  * Project: Be responsible for embedded system developing. Designed a real-time monitor system
+on the racing car and collected relevant data based on STM32 .
+  * 2nd price in Japan Honda energy-saving race
 <br>
   
 Skills
 ======
 * Programming Language
-  * Python
+  * PytSummerhon
   * C
   * PHP
 * Deep learning framework
@@ -44,3 +46,8 @@ Skills
 Publications
 ======
 * Community-preserving Graph Convolutions for Structural and Functional Joint Embedding of Brain Networks [pdf coming soon]
+
+Honors
+======
+* Mathematical Contest In Modeling (MCM) Meritorious Winner
+* Tongji ENN Energy scholarship
