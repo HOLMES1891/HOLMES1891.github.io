@@ -28,7 +28,7 @@ Project experience
 * Jul 2015 ~ Jul 2017: Leader of electronic control group
   * Tongji University Zeal energy-saving racing car team
   * Project: Real-time monitor system developing
-  * $3^{rd}$ price in Japan Honda energy-saving race
+  * $2^{nd}$ price in Japan Honda energy-saving race
 <br>
   
 Skills
