@@ -21,6 +21,10 @@ Research experience
   * University of Illinois at Chicago, BDSC Lab
   * Project: Community-preserving Graph Convolutions for Multi-view Brain Networks Analysis
   * Mentor: [Philip S. Yu](https://www.cs.uic.edu/PSYu/) and Guixiang Ma
+<br>
+
+Project experience
+======
 * 2015 ~ 2018: Leader of electronic control group
   * Tongji University Zeal energy-saving racing car team
   * Project: Real-time monitor system developing
