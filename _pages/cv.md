@@ -51,3 +51,4 @@ Honors
 * Mathematical Contest In Modeling (MCM) Meritorious Winner
 * Tongji ENN Energy scholarship
 
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://holmes1891.github.io/files/LiuJiaHao-CV-converted.pdf)
