@@ -42,10 +42,6 @@ Skills
   * Caffe
 <br>
 
-Publications
-======
-* Community-preserving Graph Convolutions for Structural and Functional Joint Embedding of Brain Networks [pdf coming soon]
-
 Honors
 ======
 * Mathematical Contest In Modeling (MCM) Meritorious Winner
